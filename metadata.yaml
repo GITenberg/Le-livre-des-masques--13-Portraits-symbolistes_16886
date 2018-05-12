@@ -1,0 +1,58 @@
+_repo: Le-livre-des-masques--13-Portraits-symbolistes_16886
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vallotton, Félix
+    aliases:
+    - Vallotton, Félix Édouard
+    - Vallotton, F. (Félix)
+    - Vallotton, Felix Edouard
+    birthdate: 1865
+    deathdate: 1925
+    gutenberg_agent_id: '38610'
+    url: http://www.gutenberg.org/2009/agents/38610
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Gourmont, Remye
+    - Gourmont, Rémy de
+    - De Gourmont, Remy
+    - Coffe, M.
+    - Drexelius, J.
+    - L'Ymagier
+    - Gourmont, Remi de
+    - Le Danois, N.
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16886'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Symbolism in literature'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcc 'PQ'
+tableOfContents: Maurice Maeterlinck -- Émile Verhaeren -- Henri de Régnier -- Francis
+  Vielé-Griffin -- Stéphane Mallarmé -- Albert Samain -- Pierre Quillard -- A.-F.
+  Herold -- Adolphe Retté -- Villiers de l'Isle-Adam -- Laurent Tailhade -- Jules
+  Renard -- Louis Dumur -- Georges Eekhoud -- Paul Adam -- Lautréamont -- Tristan
+  Corbière -- Arthur Rimbaud -- Francis Poictevin -- André Gide -- Pierre Louys --
+  Rachilde -- J.-K. Huysmans -- Jules Laforgue -- Jean Moréas -- Stuart Merrill --
+  Saint-Pol-Roux -- Robert de Montesquiou -- Gustave Kahn -- Paul Verlaine.
+title: "Le livre des masques\r\nPortraits symbolistes"
+url: http://www.gutenberg.org/ebooks/16886
